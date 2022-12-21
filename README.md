@@ -64,7 +64,7 @@ The staff directory is organized by join date in Apple Support guild.
 					<td>12/20/22</td>
 					</tr>
 					<tr>
-					<td><a href="https://discord.com/users/749074673441964064">Hyperxeno#9831</a></td>
+					<td><a href="https://discord.com/users/749074673441964064">@Hyperxeno#9831</a></td>
 					<td>$5.00 USD</td>
 					<td>12/20/22</td>
 					</tr>
