@@ -6,7 +6,6 @@ The staff directory is organized by join date in Apple Support guild.
 
 ### Want to file a staff report?
 > To file a staff report please click the profile below of a `Support Manager`!
-
 <div align="center" class="contributions">
 	<hr>
 	<h3>💸 Payment Contributions 💰<h3>
@@ -32,6 +31,11 @@ The staff directory is organized by join date in Apple Support guild.
 					<td><a href="https://discord.com/users/780514956424642580">@plump#8332</a></td>
 					<td>$25.00 USD</td>
 					<td>12/20/22</td>
+					</tr>
+					<tr>
+					<td><a href="https://discord.com/users/780514956424642580">@! GhouL#0001</a></td>
+					<td>$24.76 USD</td>
+					<td>12/21/22</td>
 					</tr>
 					<tr>
 					<td><a href="https://discord.com/users/935810285921534004">@Sampie#5750</a></td>
@@ -74,7 +78,7 @@ The staff directory is organized by join date in Apple Support guild.
 					<td>12/20/22</td>
 					</tr>
 					<tr>
-					<td align="right" colspan="3">$72.06 USD Collected</td>
+					<td align="right" colspan="3">$96.82 USD Collected</td>
 					</tr>
 				</table>
 			</td>
