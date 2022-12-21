@@ -9,14 +9,14 @@ The staff directory is organized by join date in Apple Support guild.
 
 <div align="center" class="contributions">
 	<hr>
-	<h3>p8 Payment Contributions p0<h3>
-	<h2><a href="https://www.paypal.com/donate/?hosted_button_id=6JRLVXFWTFXUS">Make a Donation p+6</a></h2>
+	<h3>💸 Payment Contributions 💰<h3>
+	<h2><a href="https://www.paypal.com/donate/?hosted_button_id=6JRLVXFWTFXUS">Make a Donation 🫶</a></h2>
 	<table class="months" border="10">
 		<tr>
 			<td valign="top">
 				<table class="january23">
 					<tr>
-						<th colspan="3"><del>January 2023</del><br>Collections date 1/1/2023 -> 1/21/2023<br><code>Hosting Cost bbbbbbbbbb 0%</code></th>
+						<th colspan="3"><del>January 2023</del><br>Collections date 1/1/2023 -> 1/21/2023<br><code>Hosting Cost ░░░░░░░░░░ 0%</code></th>
 					</tr>
 					<tr>
 						<td align="right" colspan="3">$0.00 USD Collected</td>
@@ -26,7 +26,7 @@ The staff directory is organized by join date in Apple Support guild.
 			<td valign="top">
 				<table class="december22">
 					<tr>
-					<th colspan="3">December 2022<br><code>Hosting Cost bbbbbbbbbb 100%</code></th>
+					<th colspan="3">December 2022<br><code>Hosting Cost ██████████ 100%</code></th>
 					</tr>
 					<tr>
 					<td><a href="https://discord.com/users/780514956424642580">@plump#8332</a></td>
@@ -35,7 +35,7 @@ The staff directory is organized by join date in Apple Support guild.
 					</tr>
 					<tr>
 					<td><a href="https://discord.com/users/935810285921534004">@Sampie#5750</a></td>
-					<td>b,10.01 EUR</td>
+					<td>€10.01 EUR</td>
 					<td>12/20/22</td>
 					</tr>
 					<tr>
