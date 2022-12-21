@@ -34,7 +34,7 @@ The staff directory is organized by join date in Apple Support guild.
 					<td>12/20/22</td>
 					</tr>
 					<tr>
-					<td><a href="https://discord.com/users/854496228070785094">@! GhouL#0001</a></td>
+					<td><a href="https://discord.com/users/933909008081907742">@imzach#0001</a></td>
 					<td>$24.76 USD</td>
 					<td>12/21/22</td>
 					</tr>
