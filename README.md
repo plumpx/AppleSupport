@@ -84,7 +84,7 @@ The staff directory is organized by join date in Apple Support guild.
 					<td>12/20/22</td>
 					</tr>
 					<tr>
-					<td align="right" colspan="3">$96.82 USD Collected</td>
+					<td align="right" colspan="3">$124.81 USD Collected</td>
 					</tr>
 				</table>
 			</td>
