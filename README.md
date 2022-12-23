@@ -29,6 +29,11 @@ The staff directory is organized by join date in Apple Support guild.
 					<th colspan="3">December 2022<br><code>Hosting Cost ██████████ 100%</code></th>
 					</tr>
 					<tr>
+					<td><a href="https://discord.com/users/854496228070785094">@! GhouL#0001</a></td>
+					<td>$27.99 USD</td>
+					<td>12/22/22</td>
+					</tr>
+					<tr>
 					<td><a href="https://discord.com/users/780514956424642580">@plump#8332</a></td>
 					<td>$25.00 USD</td>
 					<td>12/20/22</td>
