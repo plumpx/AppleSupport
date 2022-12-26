@@ -1,3 +1,5 @@
+<img align='right' src='https://user-images.githubusercontent.com/63246000/209499836-d1c3a195-e9f6-4e6d-9418-064beb450d3f.png' width='200'>
+
 # Apple Support Issues & Wiki
 
 This repository is for all issues and questions related to Apple Support Bot via Discord. Visit the [wiki](https://github.com/plumpx/AppleSupport/wiki) for any questions related to Apple Support [commands](https://github.com/plumpx/AppleSupport/wiki/Commands), [buttons](https://github.com/plumpx/AppleSupport/wiki/Buttons), or [events](https://github.com/plumpx/AppleSupport/wiki/Events). Wiki is publicly accessible for anyone to modify/change. If anyone abuses the wiki simply contact plump or a support manager to revert the changes.
