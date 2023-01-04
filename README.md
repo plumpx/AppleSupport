@@ -18,7 +18,12 @@ The staff directory is organized by join date in Apple Support guild.
 			<td valign="top">
 				<table class="january23">
 					<tr>
-						<th colspan="3">January 2023<br>Collections date 1/1/2023 -> 1/21/2023<br><code>Hosting Cost ▒░░░░░░░░░ 6.5%</code></th>
+						<th colspan="3">January 2023<br>Collections date 1/1/2023 -> 1/21/2023<br><code>Hosting Cost ██░░░░░░░░ 21%</code></th>
+					</tr>
+					<tr>
+					<td><a href="https://discord.com/users/490462572345294848">@kali#1337</a></td>
+					<td>$10.80 USD</td>
+					<td>1/4/23</td>
 					</tr>
 					<tr>
 					<td><a href="https://discord.com/users/749074673441964064">@Hyperxeno#9831</a></td>
@@ -26,7 +31,7 @@ The staff directory is organized by join date in Apple Support guild.
 					<td>1/4/23</td>
 					</tr>
 					<tr>
-						<td align="right" colspan="3">$4.91 USD Collected</td>
+						<td align="right" colspan="3">$15.71 USD Collected</td>
 					</tr>
 				</table>
 			</td>
