@@ -18,7 +18,7 @@ The staff directory is organized by join date in Apple Support guild.
 			<td valign="top">
 				<table class="january23">
 					<tr>
-						<th colspan="3"><del>January 2023</del><br>Collections date 1/1/2023 -> 1/21/2023<br><code>Hosting Cost ░░░░░░░░░░ 0%</code></th>
+						<th colspan="3">January 2023<br>Collections date 1/1/2023 -> 1/21/2023<br><code>Hosting Cost ░░░░░░░░░░ 0%</code></th>
 					</tr>
 					<tr>
 						<td align="right" colspan="3">$0.00 USD Collected</td>
