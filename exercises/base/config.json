@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_TOKEN",
+  "supportGuild": "SERVER_ID",
+  "commentPrefix": ".",
+  "filteredWords": [
+    { "word": "@everyone", "replace": "everyone" },
+    { "word": "@here", "replace": "here" }
+  ]
+}

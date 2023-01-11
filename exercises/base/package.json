@@ -1,0 +1,22 @@
+{
+  "name": "exercise-1-base",
+  "version": "1.0.0",
+  "description": "Create a functional ticketing bot using the README.md for directions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plumpx/AppleSupport.git#dev"
+  },
+  "author": "plump",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plumpx/AppleSupport/issues"
+  },
+  "homepage": "https://github.com/plumpx/AppleSupport/tree/dev#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
