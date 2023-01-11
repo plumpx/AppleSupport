@@ -11,13 +11,13 @@ Included Files: `config.json`
 
 ---
 
-In this exercise you will create a functional bot with a basic ticketing system.\
+In this exercise you will create a functional bot with a basic ticketing system.
 
 > Based on the current Apple Support bot structure.
 
 Follow the instructions below for a detailed explanation.
 
-**Follow the standards located on dev branch home.**
+**Follow the [standards](https://github.com/plumpx/AppleSupport/tree/dev#our-standards) located on dev branch home.**
 
 ### Do's and Dont's
 
@@ -33,7 +33,7 @@ Follow the instructions below for a detailed explanation.
 
 `⚠️ Community Server Required*`
 
-Apple Support utilizes discord new Forums channel type\
+Apple Support utilizes discord new Forums channel type
 
 > Introduced in [v14](https://discordjs.guide/additional-info/changes-in-v14.html#forumchannel)
 
@@ -41,46 +41,45 @@ If this channel does **not exist** the bot should be able to determine this and 
 
 ### **📝 Ticket Threads**
 
-Each ticket is a separate [thread](https://discordjs.guide/popular-topics/threads.html#thread-related-gateway-events).\
+Each ticket is a separate [thread](https://discordjs.guide/popular-topics/threads.html#thread-related-gateway-events).
 
 > Introduced in [v13](https://discordjs.guide/additional-info/changes-in-v13.html#threads)
 
 Tags are not important for the exercise.
 
-When a ticket is created it will be assigned a ticket ID.\
+When a ticket is created it will be assigned a ticket ID.
 
 > For this exercise you can SKIP ID assignment.
 
-Finally, the opening thread "message" should include a embed with the users name, profile photo, and the content of the message they sent when opening it.
+Finally, the opening thread "message" should include a embed with the users name, profile photo, and the content of the message they sent when opening it.\
 <img src="https://user-images.githubusercontent.com/63246000/211909409-4c04e2b0-186f-4b0f-a98a-300100e77fa4.png" width=25% height=25%>
 
 ### **📢 On DM Received**
 
 This event is triggered whenever someone sends a direct message to the bot\
-When the message is delivered the bot should determine the next course of action.\
+When the message is delivered the bot should determine the next course of action.
 
 > If ticket exists, post in ticket.
 > If ticket does not exist, create ticket thread **and** then post.
 
 Message format in the thread can be sent by the bot like so... `'User#0000: message content'`.
 
-💡 Additionally, include the filter we setup during the initial voice call interview. Make sure users are unable to send mass ping tags.\
+💡 Additionally, include the filter we setup during the initial voice call interview. Make sure users are unable to send mass ping tags.
 
 > The filter should use the configured array including in the base located in `config.json`
 
 ### **📨 On Staff Respond**
 
-When a staff responds to the ticket it should send a DM to the user.\
+When a staff responds to the ticket it should send a DM to the user.
 
 > Staff is defined by anyone in the support guild who can see the thread.
 
-Rules:\
-
+Rules:
 - Never expose a staff members name.
 - If message has a prefix of `.` it will not send to the user.
 
 # 🧠 Problem Solving Skills
 
-How are you going to store a ticket and how will you determine if the user has a open ticket already?\
+How are you going to store a ticket and how will you determine if the user has a open ticket already?
 
 > Do not database **anything**, should continue working after restart (no caching).
