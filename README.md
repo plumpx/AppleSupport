@@ -28,12 +28,12 @@ The staff directory is organized by join date in Apple Support guild.
 					<tr>
 					<td><a href="https://discord.com/users/418978030829043713">@menlazar#0420</a></td>
 					<td>$14.20 USD</td>
-					<td>2/1/23</td>
+					<td>2/6/23</td>
 					</tr>
 					<tr>
 					<td><a href="https://discord.com/users/746310372981735484">@Schnupi#0001</a></td>
 					<td>$8.85 USD</td>
-					<td>2/1/23</td>
+					<td>2/14/23</td>
 					</tr>
 					<tr>
 					<tr>
