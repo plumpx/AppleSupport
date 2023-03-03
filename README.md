@@ -1,10 +1,16 @@
-<img align='right' src='https://user-images.githubusercontent.com/63246000/209499836-d1c3a195-e9f6-4e6d-9418-064beb450d3f.png' width='200'>
+<img align='right' src='https://i.imgur.com/reVAnKE.png' width='200'>
 
 # Apple Support Issues & Wiki
 
-This repository is for all issues and questions related to Apple Support Bot via Discord. Visit the [wiki](https://github.com/plumpx/AppleSupport/wiki) for any questions related to Apple Support [commands](https://github.com/plumpx/AppleSupport/wiki/Commands), [buttons](https://github.com/plumpx/AppleSupport/wiki/Buttons), or [events](https://github.com/plumpx/AppleSupport/wiki/Events). Wiki is publicly accessible for anyone to modify/change. If anyone abuses the wiki simply contact plump or a support manager to revert the changes.
+# Welcome to the GitHub page of AppleSupport
 
-The staff directory is organized by join date in Apple Support guild.
+AppleSupport is a software development company that specializes in creating modifications for online games. Please note that we are not affiliated with the official Apple Tech company.
+
+## About this Repository
+
+This repository is for all issues and questions related to Apple Support Bot via Discord. You can find detailed information on Apple Support commands, buttons, and events by visiting the [wiki](https://github.com/plumpx/AppleSupport/wiki).
+
+The wiki is publicly accessible for anyone to modify or change. However, if you notice any abuse, please contact `plump` or a support manager to revert the changes.
 
 ### Want to file a staff report?
 > To file a staff report please click the profile below of a `Support Manager`!
