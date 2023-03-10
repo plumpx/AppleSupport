@@ -22,9 +22,20 @@ The wiki is publicly accessible for anyone to modify or change. However, if you 
 	<table class="months" border="10">
 		<tr>
 			<td valign="top">
+				<table class="march23">
+					<tr>
+					<th colspan="3">March 2023<br>Collections date 3/1/2023 -> 3/21/2023<br><code>Hosting Cost ░░░░░░░░░░░░░ 0%</code></th>
+					</tr>
+					<tr>
+					<tr>
+						<td align="right" colspan="3">$0.00 USD Collected</td>
+					</tr>
+				</table>
+			</td>
+			<td valign="top">
 				<table class="february23">
 					<tr>
-					<th colspan="3">February 2023<br>Collections date 2/1/2023 -> 2/21/2023<br><code>Hosting Cost ██████▒░░░░ 58%</code></th>
+					<th colspan="3">February 2023<br><code>Hosting Cost ██████▒░░░░ 58%</code></th>
 					</tr>
 					<tr>
 					<td><a href="https://discord.com/users/490462572345294848">@kali#1337</a></td>
