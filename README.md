@@ -1,6 +1,6 @@
 <img align='right' src='https://i.imgur.com/reVAnKE.png' width='200'>
 
-# Apple Support Issues & Wiki t
+# Apple Support Issues & Wiki
 
 # Welcome to the GitHub page of AppleSupport
 
